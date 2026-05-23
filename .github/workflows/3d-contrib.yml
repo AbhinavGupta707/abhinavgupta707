@@ -3,8 +3,8 @@ on:
   schedule:
     - cron: "10 18 * * *"   # daily, after most days' commits land
   workflow_dispatch:
-  push:
-    branches: [main]
+  # NOTE: deliberately no push trigger — this workflow commits a generated SVG
+  # back to main, which would loop with the metrics workflow.
 
 jobs:
   build:

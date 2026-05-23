@@ -3,8 +3,8 @@ on:
   schedule:
     - cron: "0 */6 * * *"   # every 6 hours
   workflow_dispatch:
-  push:
-    branches: [main]
+  # NOTE: deliberately no push trigger — this workflow commits metrics.svg back
+  # to main, which would cause an infinite loop with the 3d-contrib workflow.
 
 jobs:
   metrics:
