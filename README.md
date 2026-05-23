@@ -75,23 +75,6 @@ In progress. Stay tuned.
 
 ---
 
-### By the numbers
-
-<table>
-<tr>
-<td width="55%" valign="top">
-  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Lifetime GitHub activity — stars, forks, issues, commits, PRs, contributed to" width="100%">
-</td>
-<td width="45%" valign="top">
-  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages weighted by commit volume — where the work actually happens" width="100%">
-</td>
-</tr>
-</table>
-
-<sub><em>Stats card aggregates every public contribution I've made — commits, PRs, issues, stars, forks — across my repos and ones I've contributed to. Languages chart weights by actual commit volume, so what you see is where I spend keyboard time, not where my biggest checked-in files happen to live. Both regenerate daily via GitHub Actions.</em></sub>
-
----
-
 ### Contribution skyline
 
 <p align="center">
