@@ -14,7 +14,7 @@
 
 ---
 
-### What I'm building right now
+### Some of my projects
 
 <table>
 <tr>
@@ -75,18 +75,20 @@ In progress. Stay tuned.
 
 ---
 
-### Shape of my work
+### By the numbers
 
 <table>
 <tr>
-<td width="50%" valign="top">
-  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most-committed languages" width="100%">
+<td width="55%" valign="top">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhinavGupta707&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&custom_title=Lifetime%20activity&rank_icon=github" alt="Lifetime GitHub activity — stars, commits, PRs, issues, reviews, PRs merged" width="100%">
 </td>
-<td width="50%" valign="top">
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Activity overview — commits, code review, PRs, issues" width="100%">
+<td width="45%" valign="top">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavGupta707&layout=donut&theme=tokyonight&hide_border=true&hide=html,css,jupyter%20notebook&langs_count=8&size_weight=0.5&count_weight=0.5&custom_title=Where%20I%20spend%20bytes" alt="Top languages — weighted by both bytes and repo count" width="100%">
 </td>
 </tr>
 </table>
+
+<sub><em>Lifetime activity counts all public + private contributions including this year's commits across every repo. Languages chart weights bytes-on-disk equally with repo count, so a small Rust experiment isn't drowned by one massive Python codebase.</em></sub>
 
 ---
 
