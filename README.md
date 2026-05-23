@@ -1,14 +1,16 @@
 <!-- HERO BANNER (animated, light/dark aware) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-  <img src="./assets/hero-light.svg" alt="Abhinav Gupta — building agents that do real work" width="100%">
+  <img src="./assets/hero-light.svg" alt="Abhinav Gupta — building AI agents that defend their answers" width="100%">
 </picture>
 
 <br>
 
-> **Building deterministic AI agents for high-stakes domains** — medication safety, financial research, video pipelines, household ops.
+> **Building AI agents you'd actually let near production.**
+>
+> Rules-engine verdicts over vibes. Audit trails over autocomplete. Working on that thesis across clinical decision-making, fundamental research, generative video, and household ops.
 
-**2026 focus:** shipping production-grade agent infrastructure — MCP servers, rules-engine verdicts, and the boring scaffolding that makes LLMs trustworthy.
+**2026:** the boring scaffolding that makes LLMs trustworthy — MCP servers, verdict systems, evaluation harnesses.
 
 ---
 
@@ -18,7 +20,7 @@
 <tr>
 <td width="50%" valign="top">
 
-#### [Signal-Loop](https://github.com/abhinavgupta707/Signal-Loop)
+#### [Signal-Loop](https://github.com/AbhinavGupta707/Signal-Loop)
 `python · MCP · FHIR`
 
 Deterministic medication safety for AI prescribing agents. FHIR-native MCP servers with rules-engine verdicts — not "the model said it's fine."
@@ -26,17 +28,17 @@ Deterministic medication safety for AI prescribing agents. FHIR-native MCP serve
 </td>
 <td width="50%" valign="top">
 
-#### [Fundamental-Research-AutoPilot](https://github.com/abhinavgupta707/Fundamental-Research-AutoPilot)
+#### [Fundamental-Research-AutoPilot](https://github.com/AbhinavGupta707/Fundamental-Research-AutoPilot)
 `python · SEC · research`
 
-Autopilot for equity research: pulls SEC filings, scores 13 fundamental signals, then stress-tests Buy candidates.
+Autopilot for equity research: pulls SEC filings, scores 13 fundamental signals, stress-tests Buy candidates with bull/bear/forensic AI agents.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### [Video-Creation-Pipeline](https://github.com/abhinavgupta707/Video-Creation-Pipeline)
+#### [Video-Creation-Pipeline](https://github.com/AbhinavGupta707/Video-Creation-Pipeline)
 `python · diffusion · 3D`
 
 Skip the camera. Feed it AI stills + a reference video, it extracts the camera path and renders.
@@ -44,7 +46,7 @@ Skip the camera. Feed it AI stills + a reference video, it extracts the camera p
 </td>
 <td width="50%" valign="top">
 
-#### [IMC-Prosperity](https://github.com/abhinavgupta707/IMC-Prosperity)
+#### [IMC-Prosperity](https://github.com/AbhinavGupta707/IMC-Prosperity)
 `python · backtesting · quant`
 
 Research-first trading framework — public replay data, backtesting harness, manual-round solvers.
@@ -54,7 +56,7 @@ Research-first trading framework — public replay data, backtesting harness, ma
 <tr>
 <td width="50%" valign="top">
 
-#### [Household-OS](https://github.com/abhinavgupta707/Household-OS)
+#### [Household-OS](https://github.com/AbhinavGupta707/Household-OS)
 `typescript · mobile`
 
 Mobile command center for running a modern Indian household. Less an app, more an operating system.
@@ -62,7 +64,7 @@ Mobile command center for running a modern Indian household. Less an app, more a
 </td>
 <td width="50%" valign="top">
 
-#### [FoundersFactory](https://github.com/abhinavgupta707/FoundersFactory)
+#### [FoundersFactory](https://github.com/AbhinavGupta707/FoundersFactory)
 `typescript`
 
 In progress. Stay tuned.
@@ -73,18 +75,23 @@ In progress. Stay tuned.
 
 ---
 
-### The shape of my work
+### Shape of my work
 
-<!-- lowlighter/metrics — produces the heatmap + radar chart you wanted -->
-<p align="center">
-  <img src="./metrics.svg" alt="Activity heatmap, radar chart, language breakdown, contribution habits" width="95%">
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most-committed languages" width="100%">
+</td>
+<td width="50%" valign="top">
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Activity overview — commits, code review, PRs, issues" width="100%">
+</td>
+</tr>
+</table>
 
 ---
 
 ### Contribution skyline
 
-<!-- yoshi389111/github-profile-3d-contrib — 3D isometric -->
 <p align="center">
   <img src="./profile-3d-contrib/skyline.svg" alt="3D isometric contribution skyline, regenerated daily" width="95%">
 </p>
@@ -92,9 +99,9 @@ In progress. Stay tuned.
 ---
 
 <sub>
-&nbsp;&nbsp;<a href="https://github.com/abhinavgupta707">github</a>
+&nbsp;&nbsp;<a href="https://github.com/AbhinavGupta707">github</a>
 &nbsp;·&nbsp;<a href="mailto:">email</a>
 &nbsp;·&nbsp;<a href="#">bluesky</a>
 &nbsp;&nbsp;<br>
-&nbsp;&nbsp;<em>this profile rebuilds itself every 6 hours via GitHub Actions</em>
+&nbsp;&nbsp;<em>this profile rebuilds itself daily via GitHub Actions</em>
 </sub>
