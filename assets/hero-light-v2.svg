@@ -82,7 +82,7 @@
       <animate attributeName="r" values="3.5;12;3.5" dur="2.8s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values="0.5;0;0.5" dur="2.8s" repeatCount="indefinite"/>
     </circle>
-    <text x="14" fill="#2f9e4f">caffeinated · shipping · 2026</text>
+    <text x="14" fill="#2f9e4f">shipping · 2026</text>
   </g>
 
   <g transform="translate(960 230)">
@@ -181,7 +181,8 @@
     <text x="0"  y="48" fill="#6c7393">~ </text>
     <text x="22" y="48" fill="#2f9e4f">$ </text>
     <text x="40" y="48" fill="#2a2e44">status</text>
-    <rect x="105" y="36" width="9" height="15" fill="#1e88c4">
+    <text x="40" y="70" fill="#6c7393" font-size="13">→ caffeinated</text>
+    <rect x="135" y="58" width="9" height="15" fill="#1e88c4">
       <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
     </rect>
   </g>

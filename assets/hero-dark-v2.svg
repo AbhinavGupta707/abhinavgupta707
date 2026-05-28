@@ -87,7 +87,7 @@
       <animate attributeName="r" values="3.5;12;3.5" dur="2.8s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values="0.5;0;0.5" dur="2.8s" repeatCount="indefinite"/>
     </circle>
-    <text x="14" fill="#9ece6a">caffeinated · shipping · 2026</text>
+    <text x="14" fill="#9ece6a">shipping · 2026</text>
   </g>
 
   <!-- Orbital agent constellation -->
@@ -197,7 +197,8 @@
     <text x="0"  y="48" fill="#565f89">~ </text>
     <text x="22" y="48" fill="#9ece6a">$ </text>
     <text x="40" y="48" fill="#a9b1d6">status</text>
-    <rect x="105" y="36" width="9" height="15" fill="#7dcfff">
+    <text x="40" y="70" fill="#565f89" font-size="13">→ caffeinated</text>
+    <rect x="135" y="58" width="9" height="15" fill="#7dcfff">
       <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
     </rect>
   </g>
