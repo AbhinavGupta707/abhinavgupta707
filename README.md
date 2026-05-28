@@ -1,21 +1,21 @@
 <!-- HERO BANNER (animated, light/dark aware) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-  <img src="./assets/hero-light.svg" alt="Abhinav Gupta — building AI agents that defend their answers" width="100%">
+  <img src="./assets/hero-light.svg" alt="Abhinav Gupta" width="100%">
 </picture>
 
 <br>
 
 ## Hi, I'm Abhinav 👋
 
-Engineer who builds across domains — finance, healthcare, video, consumer apps.
+Engineer working across finance, healthcare, video, and consumer apps.
 
-**Focused on agentic AI** — how to design workflows that solve real consumer and business problems.
+**Focused on agentic AI**: how to design workflows that solve real consumer and business problems.
 
 - Financial markets (research, trading, microstructure)
 - Consumer tech for emerging markets, India in particular
 - Agent protocols (MCP, A2A)
-- Hackathons
+- Hackathons (best way to learn fast)
 
 ---
 
@@ -28,7 +28,7 @@ Engineer who builds across domains — finance, healthcare, video, consumer apps
 #### [Signal-Loop](https://github.com/AbhinavGupta707/Signal-Loop)
 `python · MCP · FHIR`
 
-Deterministic medication safety for AI prescribing agents. FHIR-native MCP servers with rules-engine verdicts — not "the model said it's fine."
+Deterministic medication safety for AI prescribing agents. FHIR-native MCP servers with rules-engine verdicts, not "the model said it's fine."
 
 </td>
 <td width="50%" valign="top">
@@ -54,7 +54,7 @@ Skip the camera. Feed it AI stills + a reference video, it extracts the camera p
 #### [IMC-Prosperity](https://github.com/AbhinavGupta707/IMC-Prosperity)
 `python · backtesting · quant`
 
-Research-first trading framework — public replay data, backtesting harness, manual-round solvers.
+Research-first trading framework: public replay data, backtesting harness, manual-round solvers.
 
 </td>
 </tr>
