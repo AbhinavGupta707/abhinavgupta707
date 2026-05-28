@@ -157,17 +157,17 @@
 
   <g font-family="ui-monospace, SFMono-Regular, monospace" font-size="24">
     <text x="80" y="305" fill="#1e88c4">
-      <tspan opacity="0">building agents that do real work
+      <tspan opacity="0">engineer · builds across domains
         <animate attributeName="opacity" values="0;1;1;0;0;0;0" keyTimes="0;0.05;0.28;0.33;0.66;0.95;1" dur="12s" repeatCount="indefinite"/>
       </tspan>
     </text>
     <text x="80" y="305" fill="#7a44d6">
-      <tspan opacity="0">deterministic. verifiable. shipped.
+      <tspan opacity="0">focused on agentic AI
         <animate attributeName="opacity" values="0;0;0;1;1;0;0" keyTimes="0;0.33;0.38;0.42;0.61;0.66;1" dur="12s" repeatCount="indefinite"/>
       </tspan>
     </text>
     <text x="80" y="305" fill="#3d59d6">
-      <tspan opacity="0">MCP servers · research autopilots · pipelines
+      <tspan opacity="0">consumer & business problems
         <animate attributeName="opacity" values="0;0;0;0;0;1;1;0" keyTimes="0;0.6;0.65;0.66;0.7;0.74;0.95;1" dur="12s" repeatCount="indefinite"/>
       </tspan>
     </text>

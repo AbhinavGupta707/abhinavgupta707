@@ -19,71 +19,10 @@ Engineer working across finance, healthcare, video, and consumer apps.
 
 ---
 
-### Some of my projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### [Signal-Loop](https://github.com/AbhinavGupta707/Signal-Loop)
-`python · MCP · FHIR`
-
-Deterministic medication safety for AI prescribing agents. FHIR-native MCP servers with rules-engine verdicts, not "the model said it's fine."
-
-</td>
-<td width="50%" valign="top">
-
-#### [Fundamental-Research-AutoPilot](https://github.com/AbhinavGupta707/Fundamental-Research-AutoPilot)
-`python · SEC · research`
-
-Autopilot for equity research: pulls SEC filings, scores 13 fundamental signals, stress-tests Buy candidates with bull/bear/forensic AI agents.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### [Video-Creation-Pipeline](https://github.com/AbhinavGupta707/Video-Creation-Pipeline)
-`python · diffusion · 3D`
-
-Skip the camera. Feed it AI stills + a reference video, it extracts the camera path and renders.
-
-</td>
-<td width="50%" valign="top">
-
-#### [IMC-Prosperity](https://github.com/AbhinavGupta707/IMC-Prosperity)
-`python · backtesting · quant`
-
-Research-first trading framework: public replay data, backtesting harness, manual-round solvers.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### [Household-OS](https://github.com/AbhinavGupta707/Household-OS)
-`typescript · mobile`
-
-Mobile command center for running a modern Indian household. Less an app, more an operating system.
-
-</td>
-<td width="50%" valign="top">
-
-#### [FoundersFactory](https://github.com/AbhinavGupta707/FoundersFactory)
-`typescript`
-
-In progress. Stay tuned.
-
-</td>
-</tr>
-</table>
-
----
-
-### Contribution skyline
+### Activity overview
 
 <p align="center">
-  <img src="./profile-3d-contrib/skyline.svg" alt="3D isometric contribution skyline, regenerated daily" width="95%">
+  <img src="./assets/activity-radar.svg" alt="Activity overview: how my contributions break down across commits, code review, issues, and pull requests" width="60%">
 </p>
 
 ---
